@@ -10,5 +10,13 @@ function parseRequest($file) {
     }
 }
 
+
+function includeContent($data) { 
+    echo $data;
+}
+
 $file = isset($_REQUEST['file']) ? $_REQUEST['file'] : null;
 parseRequest($file);
+
+$data = isset($_REQUEST['data']) ? $_REQUEST['data'] : null;
+includeContent($data);
