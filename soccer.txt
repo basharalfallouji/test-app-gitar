@@ -1,0 +1,68 @@
+2026 FIFA World Cup - Qualified Teams (48 Teams)
+=================================================
+
+CONCACAF (6 teams)
+------------------
+1.  United States (Host)
+2.  Canada (Host)
+3.  Mexico (Host)
+4.  Panama
+5.  Haiti
+6.  Curaçao
+
+AFC - Asia (9 teams)
+--------------------
+7.  Japan
+8.  Iran
+9.  Korea Republic (South Korea)
+10. Australia
+11. Uzbekistan
+12. Jordan
+13. Qatar
+14. Saudi Arabia
+15. Iraq
+
+CAF - Africa (10 teams)
+------------------------
+16. Morocco
+17. Senegal
+18. Egypt
+19. Tunisia
+20. Algeria
+21. South Africa
+22. Côte d'Ivoire (Ivory Coast)
+23. Ghana
+24. Cape Verde
+25. DR Congo
+
+CONMEBOL - South America (6 teams)
+------------------------------------
+26. Argentina (Defending Champion)
+27. Brazil
+28. Colombia
+29. Ecuador
+30. Uruguay
+31. Paraguay
+
+OFC - Oceania (1 team)
+-----------------------
+32. New Zealand
+
+UEFA - Europe (16 teams)
+-------------------------
+33. France
+34. Spain
+35. England
+36. Portugal
+37. Germany
+38. Netherlands
+39. Belgium
+40. Croatia
+41. Switzerland
+42. Austria
+43. Scotland
+44. Norway
+45. Sweden
+46. Türkiye
+47. Czechia
+48. Bosnia and Herzegovina
