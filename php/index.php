@@ -1,4 +1,5 @@
 <?php
+// @gitar-bot : Hello
 function parseRequest($file) {
     // Whitelist of includable pages keyed by a safe identifier.
     $allowed = [
