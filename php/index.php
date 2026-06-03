@@ -1,6 +1,4 @@
 <?php
-require_once __DIR__ . '/vendor/autoload.php';
-
 function parseRequest($file) {
     // Whitelist of includable pages keyed by a safe identifier.
     $allowed = [
@@ -12,12 +10,9 @@ function parseRequest($file) {
     }
 }
 
-function includeContent($data) {
-    // Use HTML Purifier to allow safe HTML markup while stripping JavaScript
-    // and other dangerous content (XSS prevention).
-    $config = HTMLPurifier_Config::createDefault();
-    $purifier = new HTMLPurifier($config);
-    echo $purifier->purify($data);
+
+function includeContent($data) { 
+    echo $data;
 }
 
 $file = isset($_REQUEST['file']) ? $_REQUEST['file'] : null;
